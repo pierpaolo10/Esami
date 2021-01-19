@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="esami_segreteria" max_length="40" name="x_570203_esami_esami_segreteria" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="data verbalizzazione" mandatory="true" max_length="40" name="data_verbalizzazione" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Matricola" max_length="40" name="matricola" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Superamento" max_length="40" name="superamento" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="analisi" label="New Choice" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Analisi" sequence="0" value="analisi"/>
+                <element inactive_on_update="false" label="Fisica" sequence="1" value="fisica"/>
+                <element inactive_on_update="false" label="Chimica" sequence="2" value="chimica"/>
+                <element inactive_on_update="false" label="Informatica" sequence="3" value="informatica"/>
+                <element inactive_on_update="false" label="Economia" sequence="4" value="economia"/>
+                <element inactive_on_update="false" label="Geometria" sequence="5" value="geometria"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="In corso" sequence="0" value="in corso"/>
+                <element inactive_on_update="false" label="Superato" sequence="1" value="superato"/>
+                <element inactive_on_update="false" label="Chiuso" sequence="2" value="chiuso"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="18" label="Votazione" mandatory="true" max_length="40" name="votazione" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="18" value="18"/>
+                <element inactive_on_update="false" label="19" value="19"/>
+                <element inactive_on_update="false" label="20" value="20"/>
+                <element inactive_on_update="false" label="21" value="21"/>
+                <element inactive_on_update="false" label="22" value="22"/>
+                <element inactive_on_update="false" label="23" value="23"/>
+                <element inactive_on_update="false" label="24" value="24"/>
+                <element inactive_on_update="false" label="25" value="25"/>
+                <element inactive_on_update="false" label="26" value="26"/>
+                <element inactive_on_update="false" label="27" value="27"/>
+                <element inactive_on_update="false" label="28" value="28"/>
+                <element inactive_on_update="false" label="29" value="29"/>
+                <element inactive_on_update="false" label="30" value="30"/>
+                <element inactive_on_update="false" label="30elode" value="30elode"/>
+            </choice>
+        </element>
+    </element>
+</database>

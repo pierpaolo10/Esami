@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Bacheca contenente i risultati degli esami</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_570203_esami.Admin_segreteria</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 09:12:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d6283612f3d201033552f2ef699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bacheca esami</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope>
+        <sys_update_name>sys_app_application_8d6283612f3d201033552f2ef699b6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 09:12:03</sys_updated_on>
+        <title>Bacheca esami</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Esami">61e513dd2fb1201033552f2ef699b647</application>
+        <file_path/>
+        <instance_id>72d8804bdb36cc5091232f17d496193f</instance_id>
+        <instance_name>dev100175</instance_name>
+        <name>sys_app_application_8d6283612f3d201033552f2ef699b6c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description>Bacheca contenente i risultati degli esami</description><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_570203_esami.Admin_segreteria</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 09:12:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8d6283612f3d201033552f2ef699b6c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bacheca esami</sys_name><sys_overrides/><sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package><sys_policy/><sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope><sys_update_name>sys_app_application_8d6283612f3d201033552f2ef699b6c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-19 09:12:03</sys_updated_on><title>Bacheca esami</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1931173339</payload_hash>
+        <record_name>Bacheca esami</record_name>
+        <reverted_from/>
+        <source>e1e513dd2fb1201033552f2ef699b649</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 09:12:03</sys_created_on>
+        <sys_id>76a243ad2ff9201033552f2ef699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17719ea560c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 09:12:03</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>bea243ad8ef9201071e261c2941897ae</update_guid>
+        <update_guid_history>bea243ad8ef9201071e261c2941897ae:-1931173339</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bacheca esami">4a538b612f3d201033552f2ef699b609</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 09:15:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>250a4059404a45088b1308b5d1273c40</sys_id>
+        <sys_metadata>8d6283612f3d201033552f2ef699b6c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bacheca esami</sys_name>
+        <sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope>
+        <sys_scope_delete display_value="">5ee813848cdb4328a46b59f2b5332204</sys_scope_delete>
+        <sys_update_name>sys_app_application_8d6283612f3d201033552f2ef699b6c8</sys_update_name>
+        <sys_update_version display_value="sys_app_application_8d6283612f3d201033552f2ef699b6c8">76a243ad2ff9201033552f2ef699b6af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 09:15:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

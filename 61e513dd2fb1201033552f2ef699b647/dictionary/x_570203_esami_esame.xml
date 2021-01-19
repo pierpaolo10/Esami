@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="esami_studente" max_length="40" name="x_570203_esami_esame" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="analisi" label="Esame" mandatory="true" max_length="40" name="esame" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="analisi" value="analisi"/>
+                <element inactive_on_update="false" label="chimica" value="chimica"/>
+                <element inactive_on_update="false" label="economia" value="economia"/>
+                <element inactive_on_update="false" label="fisica" value="fisica"/>
+                <element inactive_on_update="false" label="geometria" value="geometria"/>
+                <element inactive_on_update="false" label="informatica" value="informatica"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Matricola" mandatory="true" max_length="40" name="matricola" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" mandatory="true" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="requested for" max_length="40" name="requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="In corso" sequence="0" value="in_corso"/>
+                <element inactive_on_update="false" label="Superato" sequence="1" value="superato"/>
+                <element inactive_on_update="false" label="Chiuso" sequence="2" value="chiuso"/>
+            </choice>
+        </element>
+        <element label="SI" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Date appelli" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+    </element>
+</database>

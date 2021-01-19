@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="557c57d12ff1201033552f2ef699b6b7" sys_domain="global" table="x_570203_esami_esame" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd7c57d12ff1201033552f2ef699b6ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esame" name="x_570203_esami_esame" sys_domain="global" view="Default view">557c57d12ff1201033552f2ef699b6b7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_570203_esami_esame" sys_domain="global" view="Default view">1caa93912ff1201033552f2ef699b6c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:26:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d97c57d12ff1201033552f2ef699b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esame" name="x_570203_esami_esame" sys_domain="global" view="Default view">557c57d12ff1201033552f2ef699b6b7</sys_ui_form>
+            <sys_ui_section caption="Esame" display_value="Esame" name="x_570203_esami_esame" sys_domain="global" view="Default view">dd7c57d12ff1201033552f2ef699b6b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:26:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed7c57d12ff1201033552f2ef699b6be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esame" name="x_570203_esami_esame" sys_domain="global" view="Default view">557c57d12ff1201033552f2ef699b6b7</sys_ui_form>
+            <sys_ui_section caption="Data" display_value="Data" name="x_570203_esami_esame" sys_domain="global" view="Default view">997c57d12ff1201033552f2ef699b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:26:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>657c57d12ff1201033552f2ef699b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esame" name="x_570203_esami_esame" sys_domain="global" view="Default view">557c57d12ff1201033552f2ef699b6b7</sys_ui_form>
+            <sys_ui_section caption="Conferma registrazione" display_value="Conferma registrazione" name="x_570203_esami_esame" sys_domain="global" view="Default view">557c57d12ff1201033552f2ef699b6b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:26:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_570203_esami_esame</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>557c57d12ff1201033552f2ef699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570203_esami_esame</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope>
+            <sys_update_name>sys_ui_form_sections_557c57d12ff1201033552f2ef699b6b7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:26:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

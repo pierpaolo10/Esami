@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_boolean_3" label="SI" language="en" table="x_570203_esami_esame">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_boolean_3</element>
+            <help/>
+            <hint/>
+            <label>SI</label>
+            <language>en</language>
+            <name>x_570203_esami_esame</name>
+            <plural>SIs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:16</sys_created_on>
+            <sys_id>a97c57d12ff1201033552f2ef699b6ca</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>SI</sys_name>
+            <sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope>
+            <sys_update_name>sys_documentation_x_570203_esami_esame_u_boolean_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 08:42:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

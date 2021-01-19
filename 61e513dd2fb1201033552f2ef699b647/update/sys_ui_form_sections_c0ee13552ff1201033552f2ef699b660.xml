@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c0ee13552ff1201033552f2ef699b660" sys_domain="global" table="x_570203_esami_esami_segreteria" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:36:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84ee13552ff1201033552f2ef699b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esami_segreteria" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">c0ee13552ff1201033552f2ef699b660</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">beadd7d12ff1201033552f2ef699b69c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:36:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:46:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3f0ab952ff1201033552f2ef699b632</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esami_segreteria" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">c0ee13552ff1201033552f2ef699b660</sys_ui_form>
+            <sys_ui_section caption="Esame" display_value="Esame" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">9ff0ab952ff1201033552f2ef699b62e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:46:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:36:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40ee13552ff1201033552f2ef699b663</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esami_segreteria" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">c0ee13552ff1201033552f2ef699b660</sys_ui_form>
+            <sys_ui_section caption="Fine esame" display_value="Fine esame" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">48eedf152ff1201033552f2ef699b6c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:46:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:36:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44ee13552ff1201033552f2ef699b666</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esami_segreteria" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">c0ee13552ff1201033552f2ef699b660</sys_ui_form>
+            <sys_ui_section caption="Verbalizzazione" display_value="Verbalizzazione" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">04eedf152ff1201033552f2ef699b6c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:46:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:36:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8ee13552ff1201033552f2ef699b669</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570203_esami_esami_segreteria" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">c0ee13552ff1201033552f2ef699b660</sys_ui_form>
+            <sys_ui_section caption="Info segreteria" display_value="Info segreteria" name="x_570203_esami_esami_segreteria" sys_domain="global" view="Default view">cceedf152ff1201033552f2ef699b6c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:46:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_570203_esami_esami_segreteria</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:36:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0ee13552ff1201033552f2ef699b660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570203_esami_esami_segreteria</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c0ee13552ff1201033552f2ef699b660</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:36:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

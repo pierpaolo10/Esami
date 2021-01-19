@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_calendar_date_time_2" label="Date appelli" language="en" table="x_570203_esami_esame">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_calendar_date_time_2</element>
+            <help/>
+            <hint/>
+            <label>Date appelli</label>
+            <language>en</language>
+            <name>x_570203_esami_esame</name>
+            <plural>Date appellis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:26:15</sys_created_on>
+            <sys_id>a97c57d12ff1201033552f2ef699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date appelli</sys_name>
+            <sys_package display_value="Esami" source="x_570203_esami">61e513dd2fb1201033552f2ef699b647</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Esami">61e513dd2fb1201033552f2ef699b647</sys_scope>
+            <sys_update_name>sys_documentation_x_570203_esami_esame_u_calendar_date_time_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:26:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
